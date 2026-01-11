@@ -113,7 +113,7 @@ Issues, feature requests and contributions are all welcome
 
 ## License
 
-MIT
+This project is licensed under the MIT License.
 
 ## Author
 
